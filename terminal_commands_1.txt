@@ -1,0 +1,9 @@
+cd
+pwd
+mkdir
+ls
+cp
+mv
+touch
+history 
+
