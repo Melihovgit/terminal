@@ -1,0 +1,37 @@
+{
+
+"What will be learned on the course" :{
+						"1" : "Basic theory (what is testing ,bug reports, documentation, types, methods, testing area, etc.) SDLC, STLC.", 
+						"2" : "What is the client-server architecture.",
+						"3" : "HTTP methods of requests to the server",
+						"4" : "HTTP server response codes",
+						"5" : "Structures of HTTP requests and responses",
+						"6" : "What is JSON, XML. Their structure",
+						"7" : "API testing via Postman (JS, API Autotests)",
+						"8" : "Removing and reading logs from an external. ",
+						"9" : "Sniffing http web traffic via Charles and Fiddler.",
+						"10" : "Dev Tools of web browser (Google Chrome, Fire Fox)",
+						"11" : "VPN. (how it works, Why you need it, how to use it, tools option)",
+						"12" : "Mobile Testing.",
+						"13" : "Feature iOS, Android, guidlines",
+						"14" : "Building Android Applications on Android Studio",
+						"15" : "Building iOS application on XCode.", 
+						"16" : "ADB (Android Device management)",
+						"17" : "Settings up proxy and VPN on iOS and Android",
+						"18" : "Interception (sniffing) ",
+						"19" : "Command line (terminal) Linux (copyting, creating, viewing, moving, files on servers without a graphical interface)",
+						"20" : "Basic of bash scripting, automation of routine tasks on the server.",
+						"21" : "Access to remote servers.",
+						"22" : "SQL basics (Create, delete, drop, Insert, Into, Select, From, Where, Join).",
+						"23" : "Postgres database (installation, configuration, and use).",
+						"24" : "Non-relation database Redis (installation, configuration and use).",
+						"25" : "Load testing in Jmeter",
+						"26" : "Development metholodgy SCRUM",
+						"27" : "Python (creating Server application client)"
+
+
+
+
+
+					}
+}
